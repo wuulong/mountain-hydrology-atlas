@@ -1,0 +1,1264 @@
+case_info:
+  source_file: doc.kml
+  status: EXTRACTED
+nodes:
+- alt: 2725.06005859375
+  geom_wkt: POINT(121.2782652678946 24.02474656190436)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2725.06005859375
+  geom_wkt: POINT(121.2782652678946 24.02474656190436)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2593.260009765625
+  geom_wkt: POINT(121.2812294438481 24.02531384420206)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2725.06005859375
+  geom_wkt: POINT(121.2782652678946 24.02474656190436)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2371.300048828125
+  geom_wkt: POINT(121.2872880662246 24.02513910309664)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2371.300048828125
+  geom_wkt: POINT(121.2872880662246 24.02513910309664)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2115.239990234375
+  geom_wkt: POINT(121.3037312496453 24.02215789002)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2371.300048828125
+  geom_wkt: POINT(121.2872880662246 24.02513910309664)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2593.260009765625
+  geom_wkt: POINT(121.2812308687717 24.0253165264111)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2593.260009765625
+  geom_wkt: POINT(121.2812294438481 24.02531384420206)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2371.300048828125
+  geom_wkt: POINT(121.2872880662246 24.02513910309664)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2593.260009765625
+  geom_wkt: POINT(121.2812294438481 24.02531384420206)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2051.489990234375
+  geom_wkt: POINT(121.3077984993955 24.02575409273634)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2051.489990234375
+  geom_wkt: POINT(121.3077984993955 24.02575409273634)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2115.239990234375
+  geom_wkt: POINT(121.3037372846156 24.02216903795123)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2051.489990234375
+  geom_wkt: POINT(121.3077984993955 24.02575409273634)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1808.8399658203125
+  geom_wkt: POINT(121.3210304199748 24.02588083568544)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1808.8399658203125
+  geom_wkt: POINT(121.3210304199748 24.02588083568544)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1827.6300048828125
+  geom_wkt: POINT(121.3184537102047 24.0260101385099)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1808.8399658203125
+  geom_wkt: POINT(121.3210304199748 24.02588083568544)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1827.6300048828125
+  geom_wkt: POINT(121.3184537102047 24.0260101385099)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1827.6300048828125
+  geom_wkt: POINT(121.3184310228987 24.02598023929182)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1864.5999755859375
+  geom_wkt: POINT(121.3145645597967 24.02624697220982)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1827.6300048828125
+  geom_wkt: POINT(121.3184310228987 24.02598023929182)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1827.6300048828125
+  geom_wkt: POINT(121.3184310228987 24.02598023929182)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1827.6300048828125
+  geom_wkt: POINT(121.3184372998929 24.02599078103964)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1827.6300048828125
+  geom_wkt: POINT(121.3184310228987 24.02598023929182)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1827.6300048828125
+  geom_wkt: POINT(121.3184372998929 24.02599078103964)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1827.6300048828125
+  geom_wkt: POINT(121.3184372998929 24.02599078103964)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1827.6300048828125
+  geom_wkt: POINT(121.3184537102047 24.0260101385099)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1827.6300048828125
+  geom_wkt: POINT(121.318444910084 24.02601963337699)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1827.6300048828125
+  geom_wkt: POINT(121.3184537102047 24.0260101385099)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1827.6300048828125
+  geom_wkt: POINT(121.3184372998929 24.02599078103964)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1827.6300048828125
+  geom_wkt: POINT(121.318444910084 24.02601963337699)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1827.6300048828125
+  geom_wkt: POINT(121.318444910084 24.02601963337699)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1827.6300048828125
+  geom_wkt: POINT(121.318444910084 24.02601963337699)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1820.27001953125
+  geom_wkt: POINT(121.3214267783846 24.02609460548895)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1820.27001953125
+  geom_wkt: POINT(121.3214267783846 24.02609460548895)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1808.8399658203125
+  geom_wkt: POINT(121.3210304199748 24.02588083568544)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1820.27001953125
+  geom_wkt: POINT(121.3214267783846 24.02609460548895)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1864.5999755859375
+  geom_wkt: POINT(121.3145645597967 24.02624697220982)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1864.5999755859375
+  geom_wkt: POINT(121.3145645597967 24.02624697220982)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1872.949951171875
+  geom_wkt: POINT(121.3128680270165 24.02626921352556)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1864.5999755859375
+  geom_wkt: POINT(121.3145645597967 24.02624697220982)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1872.949951171875
+  geom_wkt: POINT(121.3128678593785 24.02626921352553)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1872.949951171875
+  geom_wkt: POINT(121.3128680270165 24.02626921352556)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1936.260009765625
+  geom_wkt: POINT(121.3119965529699 24.02641689715586)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1872.949951171875
+  geom_wkt: POINT(121.3128680270165 24.02626921352556)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1936.260009765625
+  geom_wkt: POINT(121.3119965529699 24.02641689715586)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1936.260009765625
+  geom_wkt: POINT(121.3119965529699 24.02641689715586)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2051.489990234375
+  geom_wkt: POINT(121.3077984993955 24.02575409273634)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1936.260009765625
+  geom_wkt: POINT(121.3119965529699 24.02641689715586)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1763.8399658203125
+  geom_wkt: POINT(121.3333185687769 24.02652853259132)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1763.8399658203125
+  geom_wkt: POINT(121.3333187811076 24.02652839766193)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1763.8399658203125
+  geom_wkt: POINT(121.3333185687769 24.02652853259132)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1763.8399658203125
+  geom_wkt: POINT(121.3333187811076 24.02652839766193)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1763.8399658203125
+  geom_wkt: POINT(121.333318333514 24.02652860660663)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1763.8399658203125
+  geom_wkt: POINT(121.3333185687769 24.02652853259132)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1763.8399658203125
+  geom_wkt: POINT(121.333318333514 24.02652860660663)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1763.8399658203125
+  geom_wkt: POINT(121.3333185687769 24.02652853259132)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1763.8399658203125
+  geom_wkt: POINT(121.3333187811076 24.02652839766193)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1763.8399658203125
+  geom_wkt: POINT(121.333318333514 24.02652860660663)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1763.8399658203125
+  geom_wkt: POINT(121.3332566712051 24.02653005835224)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1763.8399658203125
+  geom_wkt: POINT(121.333318333514 24.02652860660663)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1763.8399658203125
+  geom_wkt: POINT(121.3332569226622 24.0265293878)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1763.8399658203125
+  geom_wkt: POINT(121.3332566712051 24.02653005835224)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1753.7099609375
+  geom_wkt: POINT(121.3328159850571 24.02665637621782)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1763.8399658203125
+  geom_wkt: POINT(121.3332566712051 24.02653005835224)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1763.8399658203125
+  geom_wkt: POINT(121.3333187811076 24.02652839766193)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1756.239990234375
+  geom_wkt: POINT(121.3333925324467 24.02653398223103)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1756.239990234375
+  geom_wkt: POINT(121.3333925324467 24.02653398223103)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1756.239990234375
+  geom_wkt: POINT(121.3333925324467 24.02653398223103)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1846.300048828125
+  geom_wkt: POINT(121.3311978008364 24.02660004442156)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1846.300048828125
+  geom_wkt: POINT(121.3311978008364 24.02660004442156)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.331056452277 24.02689241543372)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1846.300048828125
+  geom_wkt: POINT(121.3311978008364 24.02660004442156)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1753.7099609375
+  geom_wkt: POINT(121.3328159850571 24.02665637621782)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1753.7099609375
+  geom_wkt: POINT(121.3328159850571 24.02665637621782)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1846.300048828125
+  geom_wkt: POINT(121.3311978008364 24.02660004442156)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1753.7099609375
+  geom_wkt: POINT(121.3328159850571 24.02665637621782)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1867.800048828125
+  geom_wkt: POINT(121.3222361335193 24.02671873276599)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1867.800048828125
+  geom_wkt: POINT(121.3222361335193 24.02671873276599)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1820.27001953125
+  geom_wkt: POINT(121.3214267783846 24.02609460548895)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1867.800048828125
+  geom_wkt: POINT(121.3222361335193 24.02671873276599)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1867.800048828125
+  geom_wkt: POINT(121.3222361335193 24.02671873276599)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1870.719970703125
+  geom_wkt: POINT(121.3224285469156 24.02679378362798)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1870.719970703125
+  geom_wkt: POINT(121.3224285469156 24.02679378362798)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1870.719970703125
+  geom_wkt: POINT(121.3224285469156 24.02679378362798)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1870.719970703125
+  geom_wkt: POINT(121.3224285469156 24.02679378362798)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1901.469970703125
+  geom_wkt: POINT(121.3226130733674 24.02684845943408)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1901.469970703125
+  geom_wkt: POINT(121.3226130733674 24.02684845943408)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1901.469970703125
+  geom_wkt: POINT(121.3226130733674 24.02684845943408)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.331056452277 24.02689241543372)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.331056452277 24.02689241543372)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.3310617798095 24.02695183705676)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.331056452277 24.02689241543372)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.3310992983047 24.02692547116833)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.3310992983047 24.02692547116833)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.3310617798095 24.02695183705676)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.3310992983047 24.02692547116833)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1901.469970703125
+  geom_wkt: POINT(121.3226130733674 24.02684845943408)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1906.8299560546875
+  geom_wkt: POINT(121.3228094067539 24.02696274002115)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1906.8299560546875
+  geom_wkt: POINT(121.3228094067539 24.02696274002115)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1906.8299560546875
+  geom_wkt: POINT(121.3228094067539 24.02696274002115)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.331057241607 24.02696284064383)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.3310617798095 24.02695183705676)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1885.4300537109375
+  geom_wkt: POINT(121.3299334954167 24.02746337283803)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.3310617798095 24.02695183705676)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.3310992983047 24.02692547116833)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.331057241607 24.02696284064383)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.331056441816 24.02696477986284)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.331057241607 24.02696284064383)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.331057241607 24.02696284064383)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.331056441816 24.02696477986284)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1832.2099609375
+  geom_wkt: POINT(121.3310462118344 24.02698992361631)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.331056441816 24.02696477986284)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1837.260009765625
+  geom_wkt: POINT(121.331056441816 24.02696477986284)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1832.2099609375
+  geom_wkt: POINT(121.3310462118344 24.02698992361631)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1832.2099609375
+  geom_wkt: POINT(121.3310462118344 24.02698992361631)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1832.2099609375
+  geom_wkt: POINT(121.3310462118344 24.02698992361631)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232163281911 24.02720565542427)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232163281911 24.02720565542427)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232804091705 24.02722767004342)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232163281911 24.02720565542427)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232704096774 24.02724236626742)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232804091705 24.02722767004342)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232704096774 24.02724236626742)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232804091705 24.02722767004342)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.323248333288 24.02725965015535)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232704096774 24.02724236626742)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.323248333288 24.02725965015535)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232704096774 24.02724236626742)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232163281911 24.02720565542427)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232067688768 24.02725259584239)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1983.550048828125
+  geom_wkt: POINT(121.3227605475342 24.02737716219831)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232067688768 24.02725259584239)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.323228720635 24.02726195074181)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.323248333288 24.02725965015535)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232429402657 24.02726766190434)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.323248333288 24.02725965015535)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232067688768 24.02725259584239)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.323228720635 24.02726195074181)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232067688768 24.02725259584239)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.323228720635 24.02726195074181)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.323228720635 24.02726195074181)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232429402657 24.02726766190434)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232429402657 24.02726766190434)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232429402657 24.02726766190434)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1906.8299560546875
+  geom_wkt: POINT(121.3228094067539 24.02696274002115)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1983.550048828125
+  geom_wkt: POINT(121.3227605475342 24.02737716219831)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1983.550048828125
+  geom_wkt: POINT(121.3227605475342 24.02737716219831)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1983.550048828125
+  geom_wkt: POINT(121.3227605475342 24.02737716219831)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1885.4300537109375
+  geom_wkt: POINT(121.3299334954167 24.02746337283803)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1885.4300537109375
+  geom_wkt: POINT(121.3299334954167 24.02746337283803)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1980.43994140625
+  geom_wkt: POINT(121.3232804091705 24.02722767004342)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1885.4300537109375
+  geom_wkt: POINT(121.3299334954167 24.02746337283803)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1652.5
+  geom_wkt: POINT(121.3356454754475 24.02800402267917)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1652.5
+  geom_wkt: POINT(121.3356454754475 24.02800402267917)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1756.239990234375
+  geom_wkt: POINT(121.3333925324467 24.02653398223103)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1652.5
+  geom_wkt: POINT(121.3356454754475 24.02800402267917)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1641.969970703125
+  geom_wkt: POINT(121.3354412026814 24.02810754338504)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1641.969970703125
+  geom_wkt: POINT(121.3354412026814 24.02810754338504)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1652.5
+  geom_wkt: POINT(121.3356454754475 24.02800402267917)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1641.969970703125
+  geom_wkt: POINT(121.3354412026814 24.02810754338504)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2725.06005859375
+  geom_wkt: POINT(121.2782652678946 24.02474656190436)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2797000142037 24.02879721614269)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2797141675919 24.02880791242756)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2797000142037 24.02879721614269)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2797000142037 24.02879721614269)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2796987493512 24.02880653221988)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2796984547201 24.02880706151513)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2796987493512 24.02880653221988)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2796987493512 24.02880653221988)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2796984346274 24.02880655919621)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2796987493512 24.02880653221988)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2796984346274 24.02880655919621)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2796984346274 24.02880655919621)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2796984547201 24.02880706151513)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2796984346274 24.02880655919621)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2796984547201 24.02880706151513)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2797000142037 24.02879721614269)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2797141675919 24.02880791242756)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2797141675919 24.02880791242756)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2797141675919 24.02880791242756)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1641.969970703125
+  geom_wkt: POINT(121.3354412026814 24.02810754338504)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1574.800048828125
+  geom_wkt: POINT(121.3355747856692 24.02898909123043)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1574.800048828125
+  geom_wkt: POINT(121.3355757812678 24.0289907242077)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1574.800048828125
+  geom_wkt: POINT(121.3355747856692 24.02898909123043)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1574.800048828125
+  geom_wkt: POINT(121.3355756091024 24.02899104394343)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1574.800048828125
+  geom_wkt: POINT(121.3355757812678 24.0289907242077)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1574.800048828125
+  geom_wkt: POINT(121.3355756091024 24.02899104394343)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1574.800048828125
+  geom_wkt: POINT(121.3355757812678 24.0289907242077)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1574.800048828125
+  geom_wkt: POINT(121.3355747856692 24.02898909123043)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1574.800048828125
+  geom_wkt: POINT(121.3355756091024 24.02899104394343)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1574.800048828125
+  geom_wkt: POINT(121.3355747856692 24.02898909123043)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1574.800048828125
+  geom_wkt: POINT(121.3355756091024 24.02899104394343)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2801.2900390625
+  geom_wkt: POINT(121.279823294825 24.02913049124668)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2801.2900390625
+  geom_wkt: POINT(121.279823294825 24.02913049124668)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2801.2900390625
+  geom_wkt: POINT(121.2798234764728 24.02913052530568)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2801.2900390625
+  geom_wkt: POINT(121.279823294825 24.02913049124668)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2801.2900390625
+  geom_wkt: POINT(121.279823294825 24.02913049124668)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2801.2900390625
+  geom_wkt: POINT(121.2798234764728 24.02913052530568)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2795.56005859375
+  geom_wkt: POINT(121.2796984547201 24.02880706151513)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2801.2900390625
+  geom_wkt: POINT(121.2798234764728 24.02913052530568)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2801.2900390625
+  geom_wkt: POINT(121.2798234764728 24.02913052530568)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 2801.2900390625
+  geom_wkt: POINT(121.2798135727644 24.02915158238812)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 1574.800048828125
+  geom_wkt: POINT(121.3355757812678 24.0289907242077)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1559.8699951171875
+  geom_wkt: POINT(121.3350863568485 24.02932651270729)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode
+- alt: 2801.2900390625
+  geom_wkt: POINT(121.2798171250318 24.02923937601607)
+  metadata:
+    source: kml_line_start
+  name: 能高越嶺道_START
+  type: PathNode
+- alt: 1993.300048828125
+  geom_wkt: POINT(121.2151828443532 24.05064481796565)
+  metadata:
+    source: kml_line_end
+  name: 能高越嶺道_END
+  type: PathNode

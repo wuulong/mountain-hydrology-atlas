@@ -1,0 +1,9 @@
+<OGRVRTDataSource>
+    <OGRVRTLayer name="atlas_nodes_virtual">
+        <SrcDataSource>/Users/wuulong/github/bmad-pa/events/mountain-hydrology/mountain-hydrology-atlas/practice/atlas_template.db</SrcDataSource>
+        <SrcSql>SELECT id, name, category, alt, slope_pct, geom_wkt FROM atlas_nodes</SrcSql>
+        <GeometryType>wkbPoint</GeometryType>
+        <LayerSRS>EPSG:4326</LayerSRS>
+        <GeometryField encoding="WKT" field="geom_wkt"/>
+    </OGRVRTLayer>
+</OGRVRTDataSource>

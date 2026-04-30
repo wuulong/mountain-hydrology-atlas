@@ -1,0 +1,24 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="能高越嶺水文分析 (Virtual)" version="3.22.0">
+  <layer-tree-group>
+    <layer-tree-layer id="atlas_v1" name="能高越嶺 (山河古道-虛擬表)" providerKey="ogr" source="/Users/wuulong/github/bmad-pa/events/mountain-hydrology/mountain-hydrology-atlas/practice/atlas_nodes.vrt"/>
+  </layer-tree-group>
+  <projectlayers>
+    <maplayer id="atlas_v1" type="vector">
+      <datasource>/Users/wuulong/github/bmad-pa/events/mountain-hydrology/mountain-hydrology-atlas/practice/atlas_nodes.vrt</datasource>
+      <layername>能高全要素分析</layername>
+      <renderer-v2 type="categorizedSymbol" attr="category" symbollevels="0">
+        <categories>
+          <category value="Trail" label="古道" symbol="0"/>
+          <category value="Mountain" label="山 (脊線)" symbol="1"/>
+          <category value="River" label="河 (水源)" symbol="2"/>
+        </categories>
+        <symbols>
+          <symbol name="0" type="marker"><layer class="SimpleMarker"><prop k="color" v="0,255,0"/><prop k="size" v="2"/></layer></symbol>
+          <symbol name="1" type="marker"><layer class="SimpleMarker"><prop k="color" v="255,0,0"/><prop k="size" v="5"/></layer></symbol>
+          <symbol name="2" type="marker"><layer class="SimpleMarker"><prop k="color" v="0,0,255"/><prop k="size" v="5"/></layer></symbol>
+        </symbols>
+      </renderer-v2>
+    </maplayer>
+  </projectlayers>
+</qgis>

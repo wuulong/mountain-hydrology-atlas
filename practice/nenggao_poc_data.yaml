@@ -1,0 +1,51 @@
+# 能高越嶺古道 POC 數據草稿 (v1.0)
+# 採用「第三路徑」開發模式：結構化 YAML，待模式成熟後入庫 SQL
+
+case_info:
+  id: NENGGAO-001
+  name: 能高越嶺古道 (西段)
+  source_ref: "林業署自然步道軌跡圖-064"
+  status: POC_DRAFT
+
+nodes:
+  - id: NODE-NG-01
+    name: 屯原登山口
+    type: Trailhead
+    geom_wkt: "POINT(121.21518 24.05064)"
+    alt: 2000
+    metadata:
+      watershed: "濁水溪-霧社溪"
+
+  - id: NODE-NG-02
+    name: 雲海保線所
+    type: POI
+    geom_wkt: "POINT(121.24964 24.04740)"
+    alt: 2360
+    metadata:
+      history: "原尾上駐在所"
+
+  - id: NODE-NG-03
+    name: 天池山莊
+    type: POI
+    geom_wkt: "POINT(121.28122 24.02531)"
+    alt: 2860
+
+  - id: NODE-NG-04
+    name: 能高埡口 (光被八表)
+    type: Saddle
+    geom_wkt: "POINT(121.28728 24.02513)"
+    alt: 2802
+    metadata:
+      critical_pass: true
+      watershed_a: "濁水溪"
+      watershed_b: "木瓜溪"
+
+analysis:
+  slope_efficiency:
+    target_slope: 0.10 # 10%
+    actual_avg_slope: 0.06 # 實際約 6%
+    efficiency_index_e: 0.6 # (待精確 DTM 校對)
+  hydro_coupling:
+    west_source: "濁水溪源頭 (待定位)"
+    east_source: "木瓜溪源頭 (待定位)"
+    coupling_dist_meters: 500 # 鞍部至最近穩定水源預估距離
