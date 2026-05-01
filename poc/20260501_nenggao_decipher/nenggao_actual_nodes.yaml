@@ -1,0 +1,10 @@
+nodes:
+  - name: "波阿倫社舊址 (母安山坡地)"
+    geom_wkt: "POINT(121.1870 24.0240)"
+    type: "Settlement"
+  - name: "馬赫坡社舊址 (高位台地)"
+    geom_wkt: "POINT(121.1960 24.0290)"
+    type: "Settlement"
+  - name: "光被八表紀念碑 (能高埡口)"
+    geom_wkt: "POINT(121.27961 24.02836)"
+    type: "Monument"

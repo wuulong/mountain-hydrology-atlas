@@ -63,9 +63,9 @@ def get_alt_python(dtm_dir, lng, lat):
     return None
 
 if __name__ == "__main__":
-    dtm_path = "data/open-data/dtm/nenggao_combined/"
-    input_f = "events/mountain-hydrology/mountain-hydrology-atlas/practice/nenggao_auto_nodes.yaml"
-    output_f = "events/mountain-hydrology/mountain-hydrology-atlas/practice/nenggao_dtm_nodes_final.yaml"
+    dtm_path = "/Users/wuulong/github/bmad-pa/data/open-data/dtm/nenggao_combined/"
+    input_f = "/Users/wuulong/github/bmad-pa/events/mountain-hydrology/mountain-hydrology-atlas/practice/nenggao_actual_nodes.yaml"
+    output_f = "/Users/wuulong/github/bmad-pa/events/mountain-hydrology/mountain-hydrology-atlas/practice/nenggao_dtm_actual_final.yaml"
     
     with open(input_f, 'r', encoding='utf-8') as f:
         data = yaml.safe_load(f)
@@ -84,8 +84,7 @@ if __name__ == "__main__":
         if alt is not None:
             node['alt'] = alt
             count += 1
-            if count % 10 == 0:
-                print(f"  [{count}] Matched {node['name']} -> {alt:.2f}m")
+            print(f"  [{count}] Matched {node['name']} -> {alt:.2f}m")
 
     with open(output_f, 'w', encoding='utf-8') as f:
         yaml.dump(data, f, allow_unicode=True)
