@@ -1,0 +1,85 @@
+import os
+
+def generate_qgs(project_path):
+    xml_content = f"""<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="能高古道水文地景解碼-對位修正版" version="3.28.0-Firenze">
+  <project-home path="."/>
+  <paths><absolute>0</absolute></paths>
+  
+  <layer-tree-group>
+    <layer-tree-layer id="tribe_layer" name="文明聚落節點" providerKey="ogr" source="data/nenggao_tribes.geojson"/>
+    <layer-tree-layer id="trail_line_layer" name="古道線" providerKey="ogr" source="data/nenggao_trail_line.geojson"/>
+    <layer-tree-layer id="trail_layer" name="古道路脈節點" providerKey="ogr" source="data/nenggao_trail_nodes.geojson"/>
+    <layer-tree-layer id="stream_layer" name="能高真實水脈" providerKey="ogr" source="data/nenggao_streams.geojson"/>
+    <layer-tree-layer id="dtm_layer" name="能高 20m DTM (校正後)" providerKey="gdal" source="data/nenggao_dtm.tif"/>
+  </layer-tree-group>
+
+  <properties>
+    <SpatialRefSys>
+      <ProjectionsEnabled type="int">1</ProjectionsEnabled>
+      <ProjectCRSProj4String type="QString">+proj=tmerc +lat_0=0 +lon_0=121 +k=0.9999 +x_0=250000 +y_0=0 +ellps=GRS80 +units=m +no_defs</ProjectCRSProj4String>
+      <ProjectCRSID type="int">3826</ProjectCRSID>
+      <ProjectCrs type="QString">EPSG:3826</ProjectCrs>
+    </SpatialRefSys>
+  </properties>
+
+  <projectlayers>
+    <maplayer geometry="Line" id="stream_layer" type="vector">
+      <datasource>./data/nenggao_streams.geojson</datasource>
+      <layername>能高真實水脈</layername>
+      <srs><spatialrefsys><authid>EPSG:3826</authid></spatialrefsys></srs>
+      <provider encoding="UTF-8">ogr</provider>
+      <renderer-v2 type="singleSymbol">
+        <symbols><symbol alpha="1" name="0" type="line"><layer class="SimpleLine"><prop k="line_color" v="31,120,180,255"/><prop k="line_width" v="0.6"/></layer></symbol></symbols>
+      </renderer-v2>
+    </maplayer>
+
+    <maplayer geometry="Line" id="trail_line_layer" type="vector">
+      <datasource>./data/nenggao_trail_line.geojson</datasource>
+      <layername>古道線</layername>
+      <srs><spatialrefsys><authid>EPSG:4326</authid></spatialrefsys></srs>
+      <provider encoding="UTF-8">ogr</provider>
+      <renderer-v2 type="singleSymbol">
+        <symbols><symbol alpha="1" name="0" type="line"><layer class="SimpleLine"><prop k="line_color" v="166,97,26,255"/><prop k="line_width" v="0.8"/></layer></symbol></symbols>
+      </renderer-v2>
+    </maplayer>
+
+    <maplayer geometry="Point" id="trail_layer" type="vector">
+      <datasource>./data/nenggao_trail_nodes.geojson</datasource>
+      <layername>古道路脈節點</layername>
+      <srs><spatialrefsys><authid>EPSG:4326</authid></spatialrefsys></srs>
+      <provider encoding="UTF-8">ogr</provider>
+      <renderer-v2 type="singleSymbol">
+        <symbols><symbol alpha="1" name="0" type="marker"><layer class="SimpleMarker"><prop k="color" v="255,0,0,255"/><prop k="size" v="1"/></layer></symbol></symbols>
+      </renderer-v2>
+    </maplayer>
+
+    <maplayer geometry="Point" id="tribe_layer" type="vector">
+      <datasource>./data/nenggao_tribes.geojson</datasource>
+      <layername>文明聚落節點</layername>
+      <srs><spatialrefsys><authid>EPSG:3826</authid></spatialrefsys></srs>
+      <provider encoding="UTF-8">ogr</provider>
+      <renderer-v2 type="singleSymbol">
+        <symbols><symbol alpha="1" name="0" type="marker"><layer class="SimpleMarker"><prop k="color" v="255,255,255,255"/></layer></symbol></symbols>
+      </renderer-v2>
+    </maplayer>
+
+    <maplayer id="dtm_layer" type="raster">
+      <datasource>./data/nenggao_dtm.tif</datasource>
+      <layername>能高 20m DTM (校正後)</layername>
+      <srs><spatialrefsys><authid>EPSG:3826</authid></spatialrefsys></srs>
+      <provider>gdal</provider>
+      <renderer-v2 alpha="0.6" type="singlebandgray">
+        <rasterrenderer gradient="BlackToWhite" grayBand="1" type="singlebandgray">
+          <contrastEnhancement><algorithm>StretchToMinimumMaximum</algorithm></contrastEnhancement>
+        </rasterrenderer>
+      </renderer-v2>
+    </maplayer>
+  </projectlayers>
+</qgis>
+"""
+    with open(project_path, "w", encoding="utf-8") as f:
+        f.write(xml_content)
+
+if __name__ == "__main__":
+    generate_qgs("/Users/wuulong/github/bmad-pa/events/mountain-hydrology/mountain-hydrology-atlas/qgis/nenggao_decipher_final.qgs")

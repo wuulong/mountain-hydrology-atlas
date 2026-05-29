@@ -1,0 +1,69 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="能高古道水文地景解碼" version="3.28.0-Firenze">
+  <project-home path="."/>
+  <homePath path=""/>
+  <paths>
+    <absolute>0</absolute>
+  </paths>
+  <title>能高古道水文地景解碼</title>
+  
+  <layer-tree-group>
+    <customproperties/>
+    <layer-tree-layer id="nenggao_tribes_layer_v3" name="文明聚落節點" providerKey="ogr" source="data/nenggao_tribes.geojson"/>
+    <layer-tree-layer id="nenggao_trail_layer_v3" name="古道路脈節點" providerKey="ogr" source="data/nenggao_trail_nodes.geojson"/>
+    <layer-tree-layer id="nenggao_streams_layer_v3" name="能高真實水脈" providerKey="ogr" source="data/nenggao_streams.geojson"/>
+    <layer-tree-layer id="nenggao_dtm_layer_v3" name="能高 20m DTM (校正後)" providerKey="gdal" source="data/nenggao_dtm.tif"/>
+  </layer-tree-group>
+
+  <projectlayers>
+    <maplayer geometry="Line" id="nenggao_streams_layer_v3" name="能高真實水脈" type="vector" providerKey="ogr">
+      <datasource>data/nenggao_streams.geojson</datasource>
+      <srs><spatialrefsys><authid>EPSG:3826</authid></spatialrefsys></srs>
+      <provider encoding="UTF-8">ogr</provider>
+      <renderer-v2 type="singleSymbol">
+        <symbols><symbol alpha="1" name="0" type="line"><layer class="SimpleLine"><prop k="line_color" v="31,120,180,255"/><prop k="line_width" v="0.6"/></layer></symbol></symbols>
+      </renderer-v2>
+    </maplayer>
+
+    <maplayer geometry="Point" id="nenggao_trail_layer_v3" name="古道路脈節點" type="vector" providerKey="ogr">
+      <datasource>data/nenggao_trail_nodes.geojson</datasource>
+      <srs><spatialrefsys><authid>EPSG:3826</authid></spatialrefsys></srs>
+      <provider encoding="UTF-8">ogr</provider>
+      <renderer-v2 attr="alt" type="graduatedSymbol">
+        <ranges>
+          <range label="低海拔" lower="1000" symbol="0" upper="2000"/>
+          <range label="中海拔" lower="2000" symbol="1" upper="2500"/>
+          <range label="高海拔" lower="2500" symbol="2" upper="3500"/>
+        </ranges>
+        <symbols>
+          <symbol alpha="1" name="0" type="marker"><layer class="SimpleMarker" pass="0"><prop k="color" v="51,160,44,255"/></layer></symbol>
+          <symbol alpha="1" name="1" type="marker"><layer class="SimpleMarker" pass="0"><prop k="color" v="253,191,111,255"/></layer></symbol>
+          <symbol alpha="1" name="2" type="marker"><layer class="SimpleMarker" pass="0"><prop k="color" v="227,26,28,255"/></layer></symbol>
+        </symbols>
+      </renderer-v2>
+    </maplayer>
+
+    <maplayer geometry="Point" id="nenggao_tribes_layer_v3" name="文明聚落節點" type="vector" providerKey="ogr">
+      <datasource>data/nenggao_tribes.geojson</datasource>
+      <srs><spatialrefsys><authid>EPSG:3826</authid></spatialrefsys></srs>
+      <provider encoding="UTF-8">ogr</provider>
+      <renderer-v2 type="singleSymbol">
+        <symbols><symbol alpha="1" name="0" type="marker"><layer class="SimpleMarker"><prop k="name" v="star"/><prop k="color" v="255,255,255,255"/><prop k="size" v="4"/></layer></symbol></symbols>
+      </renderer-v2>
+      <labeling type="simple">
+        <settings><text-style fontFamily="PingFang TC" fontSize="10"><text-buffer drawBuffer="1"/></text-style><text-format fieldName="name" placement="1"/></settings>
+      </labeling>
+    </maplayer>
+
+    <maplayer id="nenggao_dtm_layer_v3" name="能高 20m DTM (校正後)" type="raster" providerKey="gdal">
+      <datasource>data/nenggao_dtm.tif</datasource>
+      <srs><spatialrefsys><authid>EPSG:3826</authid></spatialrefsys></srs>
+      <provider>gdal</provider>
+      <renderer-v2 alpha="0.6" type="singlebandgray">
+        <rasterrenderer gradient="BlackToWhite" grayBand="1" type="singlebandgray">
+          <contrastEnhancement><algorithm>StretchToMinimumMaximum</algorithm></contrastEnhancement>
+        </rasterrenderer>
+      </renderer-v2>
+    </maplayer>
+  </projectlayers>
+</qgis>

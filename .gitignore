@@ -1,0 +1,10 @@
+# Ignore heavy GIS binary raster files
+*.tif
+
+# Ignore zip archives and QGIS lock/temp files
+*.zip
+*~
+*.xml
+
+# System files
+.DS_Store
